@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Transacto</string>
+    <string name="title_item_detail">Item Detail</string>
+	 <style name="DefaultButtonText">
+	   <item name="android:layout_width">fill_parent</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">#979797</item>
+	    <item name="android:gravity">center</item>
+	    <item name="android:layout_margin">3dp</item>
+	    <item name="android:textStyle">normal</item>
+	    <item name="android:textSize">20sp</item>
+	    <item name="android:shadowColor">#f9f9f9</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">1</item>
+	</style>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="title_activity_sign_up">Sign Up !</string>
+    <string name="title_activity_dash_board">My Account</string>
+
+    <!-- Slider Menu -->
+
+	<string name="drawer_open">Slider Menu Opened</string>
+	<string name="drawer_close">Slider Menu Closed</string>
+
+	<!-- Nav Drawer Menu Items -->
+	<string-array name="nav_drawer_items">
+		<item >Scan a Bill</item>
+		<item >My Wallet</item>
+		<item >Profile</item>
+		<item >Change Password</item>
+		<item >Billing History</item>
+		<item >Find Vendors</item>
+	</string-array>
+
+	<!-- Nav Drawer List Item Icons -->
+	<!-- Keep them in order as the titles are in -->
+	<array name="nav_drawer_icons">
+		<item>@drawable/scan</item>
+		<item>@drawable/wallet</item>
+		<item>@drawable/profile</item>
+		<item>@drawable/password</item>
+		<item>@drawable/history</item>
+		<item>@drawable/findvendor</item>
+	</array>
+
+	<!-- Content Description -->
+	<string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_test">TestActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_history">Payment History</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

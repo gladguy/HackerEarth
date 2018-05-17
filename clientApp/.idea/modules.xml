@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apache-httpcomponents-httpcore/apache-httpcomponents-httpcore.iml" filepath="$PROJECT_DIR$/apache-httpcomponents-httpcore/apache-httpcomponents-httpcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientApp.iml" filepath="$PROJECT_DIR$/clientApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fluent-hc-4.5.1/fluent-hc-4.5.1.iml" filepath="$PROJECT_DIR$/fluent-hc-4.5.1/fluent-hc-4.5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-4.5.1/httpclient-4.5.1.iml" filepath="$PROJECT_DIR$/httpclient-4.5.1/httpclient-4.5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpcore-4.4.3/httpcore-4.4.3.iml" filepath="$PROJECT_DIR$/httpcore-4.4.3/httpcore-4.4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-simple/json-simple.iml" filepath="$PROJECT_DIR$/json-simple/json-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksoap2-android-assembly-2.4-jar-with-dependencies/ksoap2-android-assembly-2.4-jar-with-dependencies.iml" filepath="$PROJECT_DIR$/ksoap2-android-assembly-2.4-jar-with-dependencies/ksoap2-android-assembly-2.4-jar-with-dependencies.iml" />
+    </modules>
+  </component>
+</project>

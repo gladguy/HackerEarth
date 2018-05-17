@@ -1,0 +1,20 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@android:color/white" />
+            <stroke
+                android:width="2dp"
+                android:color="#adadad"
+            />
+            <corners android:radius="5dp" />
+        </shape>
+    </item>
+    <item android:right="5dp"
+        android:top="2dp"
+        android:bottom="2dp">
+        <bitmap
+            android:src="@drawable/locker"
+            android:gravity="right"
+        />
+    </item>
+</layer-list>
